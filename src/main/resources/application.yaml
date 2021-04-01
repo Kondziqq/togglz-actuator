@@ -1,0 +1,3 @@
+togglz:
+  enable: true
+  feature-enums: com.example.togglz.features.Features
