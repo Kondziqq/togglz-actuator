@@ -1,3 +1,8 @@
 togglz:
   enable: true
   feature-enums: com.example.togglz.features.Features
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
